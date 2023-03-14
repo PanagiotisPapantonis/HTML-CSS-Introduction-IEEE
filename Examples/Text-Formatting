@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <title>This is our first example</title>
+
+    <body>
+        <p>Hello in <b>BOLD</b><br>
+        I hope your day was <ins>amazing</ins><br>
+    and with no <sup>ups</sup> and <sub>downs</sub></p>
+
+    </body>
+</html>
