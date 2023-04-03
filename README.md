@@ -8,7 +8,7 @@
 <br>*Tutorials on how to host your website via Github Pages & Netlify
 
 <h3>The specific project took place from February 2023 and is about to end in June 2023.<br> The coordination and guidance for its realization was done by the IEEE Student Branch of University of Western Macedonia, Kastoria.</h3>
-<h4>You can find the Google slides presentation : <a href="https://docs.google.com/presentation/d/1llivETZOMWq8UVROQZwZHfJOFiOyenGnuLGUyaWngRU/edit?usp=sharing" target="_blank">Here</h4>
+<h4>You can find the Google slides presentation : <a href="https://docs.google.com/presentation/d/1llivETZOMWq8UVROQZwZHfJOFiOyenGnuLGUyaWngRU/edit?usp=sharing" target="blank">Here</h4>
 
 <h4>Mentors:</h4>
 Christos Xitiris
