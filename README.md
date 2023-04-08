@@ -1,5 +1,4 @@
-# HTML-Introduction-IEEE
-<h1 align="center">Introduction to HTML for IEEE Student Branch  University of Western Macedonia , Kastoria </h1>
+<h2 align="center">Introduction to HTML for IEEE Student Branch  University of Western Macedonia , Kastoria </h2>
 <h3>This repository contains a HTML-CSS course + helpfull tools and technologies about web delevopment such as:</h3>
 <br>*API introduction and example on how to connect a weather website with a weather API
 <br>*Using and aquiring copyright free images 
