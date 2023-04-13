@@ -10,7 +10,7 @@
 <h4>You can find the Google slides presentation : <a href="https://docs.google.com/presentation/d/1llivETZOMWq8UVROQZwZHfJOFiOyenGnuLGUyaWngRU/edit?usp=sharing" >Here</a></h4>
 
 <h4>Mentors:</h4>
-Christos Xitiris
+Christos Hitiris
 <h4>Team manager:</h4>
 Panagiotis Papantonis
 <h4>Team Members:</h4>
