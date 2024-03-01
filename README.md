@@ -6,7 +6,7 @@
 <br>*Contact form tutorial via Netlify
 <br>*Tutorials on how to host your website via Github Pages & Netlify
 
-<h3>The specific project took place from February 2023 and is about to end in June 2023.<br> The coordination and guidance for its realization was done by the IEEE Student Branch of University of Western Macedonia, Kastoria.</h3>
+<h3>The specific project took place from February 2023 and is about to end in Octomber 2023.<br> The coordination and guidance for its realization was done by the IEEE Student Branch of University of Western Macedonia, Kastoria.</h3>
 <h4>You can find the Google slides presentation : <a href="https://docs.google.com/presentation/d/1llivETZOMWq8UVROQZwZHfJOFiOyenGnuLGUyaWngRU/edit?usp=sharing" >Here</a></h4>
 
 
